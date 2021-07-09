@@ -1,0 +1,33 @@
+.header {
+    color: white;
+    border-radius: 10px;
+}
+
+.slightly-smaller {
+    font-size: 90%;
+}
+
+.margin {
+    margin-top: 2.5em;
+}
+
+.alert {
+    padding-bottom: 2em;
+}
+
+.width-100 {
+    width: 100%;
+}
+
+.card {
+    padding: 0;
+    max-width: 18em;
+    margin: 0.5em 0;
+}
+
+#contact-info {
+    background-color: rgb(248, 249, 250);
+    margin-top: 1em;
+    margin-bottom: 5em;
+    text-align: center;
+}
